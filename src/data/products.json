@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "I am Groot",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "groot",
+        "guardians of the galaxy"
+      ],
+      "image": "1-groot.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "I am badman",
+      "description": "industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, buable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "groot",
+        "guardians of the galaxy"
+      ],
+      "image": "1-groot.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 20.99
+    }
+  ]
+}
